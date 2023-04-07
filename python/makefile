@@ -1,3 +1,4 @@
+# Python
 .PHONY: all clean
 
 all: hello

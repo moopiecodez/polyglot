@@ -1,3 +1,4 @@
+# Rust
 .PHONY: clean
 
 hello:

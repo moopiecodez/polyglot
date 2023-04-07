@@ -1,3 +1,4 @@
+# Scala
 .PHONY: all clean
 
 all: Hello.class hello
